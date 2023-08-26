@@ -14,7 +14,7 @@ const CONFIG = {
   HERO_TITLE_2: '财商与法律',
   HERO_TITLE_3: '知识普惠',
   HERO_TITLE_4: '深度链接创业者',
-  HERO_TITLE_5: '敬请期待「妙见圈子」',
+  HERO_TITLE_5: '欢迎加入「妙见圈子」',
   HERO_TITLE_LINK: '',
 
   // 英雄区显示三个置顶分类
