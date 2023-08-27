@@ -1,11 +1,11 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2023-08-26', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到妙见,关注妙见,提升认知,财富之路', url: '' },
+    { title: '欢迎来到妙见,关注妙见,财富之路', url: '' },
     { title: '财商与法律,金融与资本', url: '' }
   ],
 
@@ -20,7 +20,7 @@ const CONFIG = {
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '观山听雨', url: '/tag/观山听雨' },
   HERO_CATEGORY_2: { title: '抚琴修仙', url: '/tag/抚琴修仙' },
-  HERO_CATEGORY_3: { title: '藏经阁', url: '/tag/藏经阁' },
+  HERO_CATEGORY_3: { title: '妙见藏经阁', url: '/tag/妙见藏经阁' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HERO_RECOMMEND_POST_TAG: '推荐',
