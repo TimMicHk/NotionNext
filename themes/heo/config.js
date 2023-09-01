@@ -10,9 +10,9 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '妙见',
-  HERO_TITLE_2: '财商与法律',
-  HERO_TITLE_3: '知识普惠',
+  HERO_TITLE_1: '妙见财商',
+  HERO_TITLE_2: '研究事务所',
+  HERO_TITLE_3: '聚焦创业财商法律',
   HERO_TITLE_4: '深度链接创业者',
   HERO_TITLE_5: '欢迎加入「妙见圈子」',
   HERO_TITLE_LINK: '',
